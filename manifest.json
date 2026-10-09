@@ -1,0 +1,24 @@
+{
+   "id": "metric_pokedex",
+   "name": "Metric Pok\u00e9dex",
+   "version": "1.0.5",
+   "api": 2,
+   "entry": "main.lua",
+   "profile": "content",
+   "category": "UI",
+   "games": [
+      "red",
+      "blue",
+      "yellow",
+      "gold",
+      "silver",
+      "crystal",
+      "firered",
+      "leafgreen",
+      "ruby",
+      "sapphire",
+      "emerald"
+   ],
+   "description": "Displays Pok\u00e9dex height and weight in metric units using each game's own source values.",
+   "github": "ez-me/metric_pokedex"
+}
